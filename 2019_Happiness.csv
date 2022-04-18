@@ -1,4 +1,4 @@
-Country Name,Country Code,Overall rank,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,,,,,
+Country Name,id,Overall rank,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,,,,,
 Afghanistan,AFG,154,3.203,0.35,0.517,0.361,0,0.158,0.025,,,,,
 Albania,ALB,107,4.719,0.947,0.848,0.874,0.383,0.178,0.027,,,,,
 Algeria,DZA,88,5.211,1.002,1.16,0.785,0.086,0.073,0.114,,,,,
